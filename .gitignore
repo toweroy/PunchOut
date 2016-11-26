@@ -9,3 +9,4 @@
 .externalNativeBuild
 .idea/
 app/src/main/res/sprites
+app/src/main/res/drawable-nodpi
